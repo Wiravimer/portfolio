@@ -1,0 +1,6 @@
+-1 Homer Simpson
+1000 Hacker
+10 Human
+51 Betman
+666 Diablo
+3 gggg

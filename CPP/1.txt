@@ -1,0 +1,2 @@
+do (abc1:=2.; abc1<=11.0E+1; abc1:=abc1=>.1)
+while id := id=34e-5;
